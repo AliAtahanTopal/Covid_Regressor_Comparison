@@ -45,7 +45,7 @@ The reason for some of the regressors to predict a straight line is because they
 
 ## Random Forest With Shuffle Estimated Line
 
-![RF](./pictures/RandomForestShuf.png)
+![RF](./pictures/RandomForestshuf.png)
 
 ## Gradient Boosting With Shuffle Estimated Line
 
@@ -53,7 +53,7 @@ The reason for some of the regressors to predict a straight line is because they
 
 ## XGBoost With Shuffle Estimated Line
 
-![XGB](./pictures/XgBoostShuf.png)
+![XGB](./pictures/XGBoostShuf.png)
 
 ## Ransac With Shuffle Estimated Line
 
