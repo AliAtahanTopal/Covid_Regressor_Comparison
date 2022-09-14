@@ -30,14 +30,14 @@
 
 ## Ransac Estimated Line
 
-![RANSACNS](./pictures/RansacNoShuf.png.png)
+![RANSACNS](./pictures/RansacNoShuf.png)
 
 
 The reason for some of the regressors to predict a straight line is because they these regressors require a homogeneous input data to train. Since these estimated lines are without shuffling the data in the process of splitting to train and test. Lets look at the estimated lines with the shuffled data.
 
 ## Linear Regression With Shuffle Estimated Line
 
-![LR](./pictures/LinearRegShuf.png.png)
+![LR](./pictures/LinearRegShuf.png)
 
 ## SVR With Shuffle Estimated Line
 
@@ -57,7 +57,7 @@ The reason for some of the regressors to predict a straight line is because they
 
 ## Ransac With Shuffle Estimated Line
 
-![RANSAC](./pictures/RansacShuf.png.png)
+![RANSAC](./pictures/RansacShuf.png)
 
 # Conclulsion
 
